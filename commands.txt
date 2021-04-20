@@ -13,3 +13,12 @@ Activate Virtual Enviroment
 
 Install Django in Virtual Enviroment
 pip install Django==3.2
+
+Start Django Project
+django-admin startproject psa
+
+CD into psa
+cd psa
+
+Run dev server
+python manage.py runserver
