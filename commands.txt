@@ -1,0 +1,15 @@
+Windows
+Visual Studio Code
+
+Create Virtual Enviroment
+python -m venv .venv
+
+Activate Virtual Enviroment
+.venv\scripts\activate
+
+"/Users/me/.envs/myenv"
+
+§
+
+Install Django in Virtual Enviroment
+pip install Django==3.2
