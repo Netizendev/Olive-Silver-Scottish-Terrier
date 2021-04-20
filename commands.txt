@@ -1,6 +1,9 @@
 Windows
 Visual Studio Code
 
+Select interpreter in VS Code
+Ctrl Shift P
+
 Create Virtual Enviroment
 python -m venv .venv
 
